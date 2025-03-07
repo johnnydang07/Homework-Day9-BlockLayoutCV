@@ -1,0 +1,47 @@
+body{
+    border: 1px solid black;
+}
+div{
+    display: block;
+    margin: 10px;
+    border: 1px solid black;
+}
+.top--avatar{
+    display: inline-block;
+    width: 20%;
+    height: 200px;
+}
+.top--title{
+    display: inline-block;
+    width: 76%;
+    height: 200px;
+}
+.col-left{
+    text-align: center;
+    width: 40%;
+    display: inline-block;
+    height: 500px;
+}
+.col-right{
+    text-align: center;
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    height: 500px;
+}
+.col--card1{
+    display: inline-block;
+    width: 50%;
+    height: 140px;
+    vertical-align: top;
+    
+}
+.col--card2{
+    display: inline-block;
+    width: 50%;
+    height: 220px;
+    vertical-align: top;
+}
+.bottom{
+    height: 200px;
+}
