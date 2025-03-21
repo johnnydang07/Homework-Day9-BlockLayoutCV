@@ -6,37 +6,37 @@ div{
     margin: 10px;
     border: 1px solid black;
 }
-.top--avatar{
+.top__avatar{
     display: inline-block;
     width: 20%;
     height: 200px;
 }
-.top--title{
+.top__title{
     display: inline-block;
     width: 76%;
     height: 200px;
 }
-.col-left{
+.col__left{
     text-align: center;
     width: 40%;
     display: inline-block;
     height: 500px;
 }
-.col-right{
+.col__right{
     text-align: center;
     width: 50%;
     display: inline-block;
     vertical-align: top;
     height: 500px;
 }
-.col--card1{
+.col__left--card1{
     display: inline-block;
     width: 50%;
     height: 140px;
     vertical-align: top;
     
 }
-.col--card2{
+.col__right--card2{
     display: inline-block;
     width: 50%;
     height: 220px;
